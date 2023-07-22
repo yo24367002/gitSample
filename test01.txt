@@ -3,7 +3,7 @@
 <2222>
 <3333>
 br01で修正
-<aaaa>
+<aaaa+>
 <bbbb>
 <cccc>
 --end--
